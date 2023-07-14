@@ -1,1 +1,9 @@
-test news
+ — 07/07/2023
++ Added water wireframes
++ Added weapon bullet color changer
++ Added radar ESP (Ships, Barrels, Shipwrecks, NPCs)
++ Added local ships green color
++ Added local crew green color in playerlist 
+
+ — 14/07/2023
++ Fixed wallbang aimbot. 
