@@ -1,0 +1,6 @@
+ — 06/15/2023
+Fully updated Sea Of Thieves public version
+
+--- — 07/05/2023
++ Fixed FPS Drops
++ Fixed sky&fov removals not working, fixed shipwreck esp not working, fixed World events esp 
