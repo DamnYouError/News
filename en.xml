@@ -1,0 +1,291 @@
+<language>
+    <key name="VisualsText">Visuals                    </key>
+    <key name="PlayersButton">Players                          </key>
+    <key name="ShipsButton">Ships                          </key>
+    <key name="WorldButton">World                          </key>
+    <key name="MobsButton">Mobs                           </key>
+    <key name="HudButton">Hud                             </key>
+    <key name="FOVButton">FOV                             </key>
+    <key name="AimText">Aim                          </key>
+    <key name="WeaponButton">Weapon                        </key>
+    <key name="CannonButton">Cannon                          </key>
+    <key name="OtherText">Other                          </key>
+    <key name="MiscButton">Misc                               </key>
+    <key name="ExploitsButton">Exploits                         </key>
+    <key name="SkinsButton">Skins                               </key>
+    <key name="NetworkButton">Network                         </key>
+    <key name="ConfigButton">Config                            </key>
+
+    <key name="EnableText">Enable</key>
+    <key name="DrawTeammatesText">Draw Teammates</key>
+    <key name="DrawTracersText">Draw Tracers</key>
+    <key name="DrawNameText">Draw Name</key>
+    <key name="DrawSkeletonText">Draw Skeleton</key>
+    <key name="PlayerGlowText">Player Glow</key>
+    <key name="BoxTypeText">Box Type</key>
+    <key name="HealthTypeText">Health Type</key>
+    <key name="DistanceText">Distance</key>
+    
+    <key name="FilterKeywordText">Filter Keyword</key>
+    <key name="TextColorText">Text Color</key>
+    
+    <key name="WorldEventsText">World Events</key>
+	
+	<key name="ColorsText">Colors</key>
+	<key name="ShowholesText">Show holes</key>
+	<key name="ShowEmissaryText">Show Emissary</key>
+	<key name="ShowLastSunkText">Show Last Sunk</key>
+	
+	
+	<key name="IslandsText">Islands</key>
+	<key name="XmarksText">XMarks</key>
+	
+	
+	<key name="RiddleText">Riddle</key>
+    
+	
+	    <!-- Items Section -->
+	
+    <key name="ItemsButton">Items</key>
+    <key name="BarrelsText">Barrels</key>
+    <key name="PeekBarrelText">Peek Barrel</key>
+    <key name="AmmoChestsText">Ammo Chests</key>
+    <key name="LostCargoCluesText">Lost Cargo Clues</key>
+    <key name="CluesTextColorText">Clues Text Color</key>
+    <key name="BarrelTextColorText">Barrel Text Color</key>
+    <key name="AmmoChestTextColorText">Ammo Chest Text Color</key>
+    <key name="ItemDistanceText">Item Distance</key>
+    <key name="BarrelDistanceText">Barrel Distance</key>
+    <key name="AmmoChestDistanceText">Ammo Chest Distance</key>
+    
+	
+	    <!-- Rowboats Section -->
+    <key name="RowboatsButton">Rowboats</key>
+    
+	
+	    <!-- Riddle Section -->
+    <key name="RiddleText">Riddle</key>
+	
+	    <!-- Puzzles Section -->
+    <key name="PuzzlesText">Puzzles</key>
+    <key name="DrawDoorsText">Draw Doors</key>
+    <key name="PuzzlesTextColorText">Text Color</key>
+    <key name="PuzzlesDistanceText">Distance</key>
+    
+    <!-- Shipwrecks Section -->
+    <key name="ShipwrecksText">Shipwrecks</key>
+    <key name="DrawShipwreckNameText">Draw Name</key>
+    <key name="ShipwrecksTextColorText">Text Color</key>
+    <key name="ShipwrecksDistanceText">Distance</key>
+    
+    <!-- Storm Section -->
+    <key name="StormText">Storm</key>
+    <key name="DrawStormNameText">Draw Name</key>
+    <key name="StormTextColorText">Text Color</key>
+    <key name="StormDistanceText">Distance</key>
+    
+    <!-- NPC Section -->
+    <key name="NPCText">NPC</key>
+    <key name="DrawNPCNameText">Draw Name</key>
+    <key name="NPCTextColorText">Text Color</key>
+    <key name="NPCDistanceText">Distance</key>
+	
+	
+	    <!-- Skeletons Section -->
+    <key name="SkeletonsText">Skeletons</key>
+    <key name="DrawNameText">Draw Name</key>
+    <key name="BoxTypeText">Box Type</key>
+    <key name="VisibleColorText">Visible Color</key>
+    <key name="InvisibleColorText">Invisible Color</key>
+    <key name="TextColorText">Text Color</key>
+    <key name="DistanceText">Distance</key>
+
+    <!-- Animals Section -->
+    <key name="AnimalsText">Animals</key>
+    <key name="DrawNameText">Draw name</key>
+    <key name="BoxTypeText">Box type</key>
+    <key name="VisibleColorText">Visible Color</key>
+    <key name="InvisibleColorText">Invisible Color</key>
+    <key name="TextColorText">Text color</key>
+
+    <!-- Sharks Section -->
+    <key name="SharksText">Sharks</key>
+    <key name="DrawSkeletonText">Draw skeleton</key>
+    <key name="DrawNameText">Draw name</key>
+    <key name="VisibleColorText">Visible Color</key>
+    <key name="InvisibleColorText">Invisible Color</key>
+    <key name="TextColorText">Text color</key>
+	
+	    <!-- Mermaids Section -->
+    <key name="MermaidsText">Mermaids</key>
+    <key name="DrawNameText">Draw Name</key>
+    <key name="TextColorText">Text Color</key>
+    <key name="DistanceText">Distance</key>
+	
+	    <!-- Client Section -->
+    <key name="ClientText">Client</key>
+    <key name="CrosshairText">Crosshair</key>
+    <key name="RadiusText">Radius</key>
+    <key name="ThicknessText">Thickness</key>
+    <key name="CHColorText">CH Color</key>
+    <key name="CrosshairTypeText">Crosshair Type</key>
+    <key name="OxygenLevelText">Oxygen Level</key>
+    <key name="CompassText">Compass</key>
+    <key name="TrajectoryText">Trajectory</key>
+    <key name="CircleTrajectoryText">Circle Trajectory</key>
+    <key name="CannonTracersText">Cannon Tracers</key>
+    <key name="TracerLengthText">Tracer Length</key>
+    <key name="TracerColorText">Tracer Color</key>
+
+    <!-- Ship Radar Section -->
+    <key name="ShipRadarText">Ship Radar</key>
+    <key name="RadarBarrelText">Barrel</key>
+    <key name="RadarNPCText">NPC</key>
+    <key name="RadarShipWrecksText">Shipwrecks</key>
+    <key name="RadarSizeText">Radar Size</key>
+    <key name="RadarScaleText">Radar Scale</key>
+
+    <!-- GUI Settings Section -->
+    <key name="GUISettingsText">GUI Settings</key>
+    <key name="AnimationText">Animation</key>
+    <key name="WatermarkText">Watermark</key>
+	
+	    <!-- Global Fov Section -->
+    <key name="GlobalFovText">Global Fov</key>
+    <key name="FOVText">FOV</key>
+	
+	
+		<!-- Weapon Aim Section -->
+	<key name="GlobalAimText">Global Aim</key>
+	<key name="FOVText">FOV</key>
+	<key name="PlayersText">Players</key>
+	<key name="AimAtTeammatesText">Aim At Teammates</key>
+	<key name="VisibleOnlyText">Visible Only</key>
+	<key name="SilentAimText">Silent Aim</key>
+	<key name="WallbangText">Wallbang</key>
+	<key name="FovSizeText">Fov size</key>
+	<key name="YawText">Yaw</key>
+	<key name="PitchText">Pitch</key>
+	<key name="SmoothnessText">Smoothness</key>
+	<key name="AimHeightText">Aim Height</key>
+	<key name="SkeletonsText">Skeletons</key>
+	<key name="BulletColorText">Bullet Color</key>
+	
+	
+		<!-- Cannon Aim Section -->
+	<key name="CannonText">Cannon</key>
+	<key name="SilentAimText">Silent Aim</key>
+	<key name="ChainShotsText">Chain Shots</key>
+	<key name="PlayerAimbotText">Player Aimbot</key>
+	<key name="SkeletonAimbotText">Skeleton Aimbot</key>
+	<key name="SkeletonShipAimbotText">Skeleton Ship Aimbot</key>
+	<key name="GhostShipsText">Ghost Ships</key>
+	<key name="RandomShotsText">Random Shots</key>
+	<key name="LowerDeckText">Lower Deck</key>
+	<key name="DeckshotText">Deckshot</key>
+	<key name="KegsText">Kegs</key>
+	<key name="VisibleOnlyText">Visible Only</key>
+	<key name="HarpoonText">Harpoon</key>
+	
+		<!-- Misc Section -->
+	<key name="GlobalMiscText">Global Misc</key>
+    <key name="ClientText">Client</key>
+    <key name="ShipInfoText">Ship Info</key>
+    <key name="MapPinsText">Map Pins</key>
+    <key name="FreeCamText">Free Cam</key>
+    <key name="FreeCamTooltip">F12 To activate, F10 to FLY, F11 To get back to your original body</key>
+    <key name="MacrosText">Macros</key>
+    <key name="BunnyHopText">Bunny Hop</key>
+    <key name="DisableIdleKickText">Disable Idle Kick</key>
+    <key name="GameText">Game</key>
+    <key name="ShowPlayersListText">Show Players List</key>
+    <key name="CookingStateText">Cooking State</key>
+    <key name="SwordText">Sword</key>
+    <key name="HeavyNoCameraClampText">Heavy No Camera Clamp</key>
+    <key name="BlockingNoSlownessText">Blocking No Slowness</key>
+    <key name="FasterSwordText">Faster Sword</key>
+    <key name="AllWeaponsText">All Weapons</key>
+    <key name="FasterReloadingText">Faster Reloading</key>
+    <key name="ADSSwitchNoSlownessText">ADS Switch No Slowness</key>
+    <key name="WeaponWireframesText">Weapon Wireframes</key>
+    <key name="BulletColorText">Bullet Color</key>
+    <key name="ModsText">Mods</key>
+    <key name="DisableSkyAndFogText">Disable Sky & Fog</key>
+    <key name="WaterWireFramesText">Water WireFrames</key>
+    <key name="NoDrunkennessText">No Drunkenness</key>
+    <key name="InstantLoadText">Instant Load</key>
+    <key name="AutoAmmoReloadText">Auto Ammo Reload</key>
+    <key name="LadderMagnetText">Ladder Magnet</key>
+    <key name="TimeChangerText">Time Changer</key>
+    <key name="ItemGrabberText">Item Grabber</key>
+    <key name="AnchorDropperText">Anchor Dropper</key>
+    <key name="SetTimeText">Set Time</key>
+    <key name="RiskyText">Risky</key>
+    <key name="TeleportText">Teleport</key>
+    <key name="WalkUnderwaterText">Walk Underwater</key>
+    <key name="MagicTridentText">Magic Trident</key>
+    <key name="WalkWhileDeadText">Walk While Dead</key>
+    <key name="InstantLadderText">Instant Ladder</key>
+	
+		<!-- Exploits -->
+	<key name="Other">Other</key>
+	<key name="ReAnimateButton">Re Animate</key>
+	<key name="ReAnimateCheckbox">Re Animate</key>
+	<key name="Exploits">Exploits</key>
+	<key name="FreezeCheckbox">Freeze</key>
+	<key name="UnderwaterSpeedCheckbox">Underwater Speed</key>
+	<key name="UnderwaterSpeedTooltip">Only works while fired from a cannon</key>
+	<key name="FallDamageCheckbox">Fall Damage</key>
+	<key name="InstantRepairCheckbox">Instant Repair</key>
+	<key name="InstantBlackScreenCheckbox">Instant BlackScreen</key>
+	<key name="SuicideCheckbox">Suicide</key>
+	<key name="GodmodeCheckbox">Godmode</key>
+	<key name="SuppliesCheckbox">Supplies</key>
+	<key name="MegaLaunchCheckbox">Mega Launch</key>
+	<key name="MegaLaunchSpeedSlider">Speed</key>
+	<key name="TeleportCheckbox">Teleport</key>
+	<key name="LadderTPToggleTooltip">F1 To Teleport</key>
+	<key name="LadderTPCheckbox">Ladder TP</key>
+	<key name="CannonTPCheckbox">Cannon TP</key>
+	<key name="WheelTPCheckbox">Wheel TP</key>
+	<key name="AirJumpCheckbox">Air Jump</key>
+	<key name="AirJumpManualCheckbox">Air Jump Manual</key>
+	<key name="AirJumpManualTooltip">Enable and spam the key to air jump!</key>
+	<key name="Keybinds">Keybinds</key>
+	<key name="FreezeKeyText">Freeze Key</key>
+	<key name="AirJumpKeyText">Air Jump Key</key>
+	<key name="MegaLaunchKeyText">Mega Launch Key</key>
+	<key name="ReAnimateKeyText">ReAnimate Key</key>
+	<key name="AirJumpManualKeyText">Air Jump Manual Key</key>
+	<key name="InstantRepairKeyText">Instant Repair Key</key>
+	<key name="UnderwaterSpeedKeyText">Underwater Speed Key</key>
+	<key name="NoFallDamageKeyText">No Fall Damage Key</key>
+	<key name="SuicideKeyText">Suicide Key</key>
+	<key name="BlackscreenKeyText">Blackscreen Key</key>
+	<key name="GodModeKeyText">God Mode Key</key>
+		<!-- Skins -->
+	<key name="FlintlockText">Flintlock</key>
+	<key name="BlunderbussText">Blunderbuss</key>
+	<key name="EyeOfReachText">Eye Of Reach</key>
+	<key name="ChooseSkinToolTip">Please choose a skin then check this checkbox</key>
+	
+	
+		<!-- Network Settings -->
+	<key name="NetworkSettings">Network</key>
+	<key name="ServerCrasherCheckbox">Server Crasher</key>
+	<key name="ServerHopCheckbox">Server Hop</key>
+	
+		<!-- Config Section -->
+	<key name="Config">Config</key>
+	<key name="FileName">File Name</key>
+	<key name="SaveSettingsButton">Save Settings</key>
+	<key name="FileCombo">File</key>
+	<key name="NoSettingsFiles">No settings files found.</key>
+	<key name="LoadSettingsButton">Load Settings</key>
+	<key name="SettingsSavedPopup">Settings Saved</key>
+	<key name="SettingsSavedText">Settings Saved!</key>
+	<key name="OKButton">OK</key>
+	<key name="SettingsLoadedPopup">Settings Loaded</key>
+	<key name="SettingsLoadedText">Settings Loaded!</key>
+	
+</language>
