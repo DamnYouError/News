@@ -1,0 +1,291 @@
+<language>
+    <key name="VisualsText">视觉                      </key>
+    <key name="PlayersButton">玩家                             </key>
+    <key name="ShipsButton">船舶                          </key>
+    <key name="WorldButton">世界                           </key>
+    <key name="MobsButton">怪物                           </key>
+    <key name="HudButton">界面                          </key>
+    <key name="FOVButton">视野                           </key>
+    <key name="AimText">瞄准                          </key>
+    <key name="WeaponButton">武器                            </key>
+    <key name="CannonButton">大炮                             </key>
+    <key name="OtherText">其他                          </key>
+    <key name="MiscButton">杂项                               </key>
+    <key name="ExploitsButton">高风险功能                    </key>
+    <key name="SkinsButton">皮肤                               </key>
+    <key name="NetworkButton">网络                               </key>
+    <key name="ConfigButton">配置文件                        </key>
+
+    <key name="EnableText">启用</key>
+    <key name="DrawTeammatesText">队友</key>
+    <key name="DrawTracersText">踪迹</key>
+    <key name="DrawNameText">名称</key>
+    <key name="DrawSkeletonText">骷髅</key>
+    <key name="PlayerGlowText">玩家人物发光</key>
+    <key name="BoxTypeText">透视类型</key>
+    <key name="HealthTypeText">血条类型</key>
+    <key name="DistanceText">距离</key>
+    
+    <key name="FilterKeywordText">筛选关键词</key>
+    <key name="TextColorText">文本颜色</key>
+    
+    <key name="WorldEventsText">世界事件</key>
+	
+	<key name="ColorsText">颜色</key>
+	<key name="ShowholesText">显示船洞</key>
+	<key name="ShowEmissaryText">显示特使</key>
+	<key name="ShowLastSunkText">显示最后沉船位置</key>
+	
+	
+	<key name="IslandsText">岛屿</key>
+	<key name="XmarksText">宝藏位置X显示</key>
+	
+	
+	<key name="RiddleText">谜题</key>
+    
+	
+	    <!-- Items Section -->
+	
+    <key name="ItemsButton">物品</key>
+    <key name="BarrelsText">木桶</key>
+    <key name="PeekBarrelText">显示桶内物资</key>
+    <key name="AmmoChestsText">弹药箱</key>
+    <key name="LostCargoCluesText">遗失的货物线索</key>
+    <key name="CluesTextColorText">线索文本颜色</key>
+    <key name="BarrelTextColorText">木桶文本颜色</key>
+    <key name="AmmoChestTextColorText">弹药箱文本颜色</key>
+    <key name="ItemDistanceText">物品距离</key>
+    <key name="BarrelDistanceText">木桶距离</key>
+    <key name="AmmoChestDistanceText">弹药箱距离</key>
+    
+	
+	    <!-- Rowboats Section -->
+    <key name="RowboatsButton">小划船</key>
+    
+	
+	    <!-- Riddle Section -->
+    <key name="RiddleText">谜题</key>
+	
+	    <!-- Puzzles Section -->
+    <key name="PuzzlesText">解密益智</key>
+    <key name="DrawDoorsText">显示门</key>
+    <key name="PuzzlesTextColorText">文本颜色</key>
+    <key name="PuzzlesDistanceText">距离</key>
+    
+    <!-- Shipwrecks Section -->
+    <key name="ShipwrecksText">沉船事件</key>
+    <key name="DrawShipwreckNameText">显示名称</key>
+    <key name="ShipwrecksTextColorText">文本颜色</key>
+    <key name="ShipwrecksDistanceText">距离</key>
+    
+    <!-- Storm Section -->
+    <key name="StormText">风暴点</key>
+    <key name="DrawStormNameText">显示名称</key>
+    <key name="StormTextColorText">文本颜色</key>
+    <key name="StormDistanceText">距离</key>
+    
+    <!-- NPC Section -->
+    <key name="NPCText">NPC</key>
+    <key name="DrawNPCNameText">显示名称</key>
+    <key name="NPCTextColorText">文本颜色</key>
+    <key name="NPCDistanceText">距离</key>
+	
+	
+	    <!-- Skeletons Section -->
+    <key name="SkeletonsText">骷髅</key>
+    <key name="DrawNameText">显示名称</key>
+    <key name="BoxTypeText">透视类型</key>
+    <key name="VisibleColorText">可见时颜色</key>
+    <key name="InvisibleColorText">不可见时颜色</key>
+    <key name="TextColorText">文本颜色</key>
+    <key name="DistanceText">距离</key>
+
+    <!-- Animals Section -->
+    <key name="AnimalsText">动物</key>
+    <key name="DrawNameText">显示名称</key>
+    <key name="BoxTypeText">透视类型</key>
+    <key name="VisibleColorText">可见时颜色</key>
+    <key name="InvisibleColorText">不可见时颜色</key>
+    <key name="TextColorText">文本颜色</key>
+
+    <!-- Sharks Section -->
+    <key name="SharksText">鲨鱼</key>
+    <key name="DrawSkeletonText">显示鲨鱼骨骼</key>
+    <key name="DrawNameText">显示名称</key>
+    <key name="VisibleColorText">可见时颜色</key>
+    <key name="InvisibleColorText">不可见时颜色</key>
+    <key name="TextColorText">文本颜色</key>
+	
+	    <!-- Mermaids Section -->
+    <key name="MermaidsText">美人鱼</key>
+    <key name="DrawNameText">显示名称</key>
+    <key name="TextColorText">文本颜色</key>
+    <key name="DistanceText">距离</key>
+	
+	    <!-- Client Section -->
+    <key name="ClientText">客户端</key>
+    <key name="CrosshairText">准星选项</key>
+    <key name="RadiusText">半径</key>
+    <key name="ThicknessText">厚度</key>
+    <key name="CHColorText">准星颜色</key>
+    <key name="CrosshairTypeText">准星类型</key>
+    <key name="OxygenLevelText">显示氧气值</key>
+    <key name="CompassText">显示指南针</key>
+    <key name="TrajectoryText">轨迹</key>
+    <key name="CircleTrajectoryText">圆形轨迹</key>
+    <key name="CannonTracersText">炮弹踪迹显示</key>
+    <key name="TracerLengthText">踪迹长度</key>
+    <key name="TracerColorText">踪迹颜色</key>
+
+    <!-- Ship Radar Section -->
+    <key name="ShipRadarText">船舶雷达</key>
+    <key name="RadarBarrelText">木桶</key>
+    <key name="RadarNPCText">NPC</key>
+    <key name="RadarShipWrecksText">沉船</key>
+    <key name="RadarSizeText">雷达大小</key>
+    <key name="RadarScaleText">雷达规模</key>
+
+    <!-- GUI Settings Section -->
+    <key name="GUISettingsText">GUI界面设置</key>
+    <key name="AnimationText">动画</key>
+    <key name="WatermarkText">菜单水印</key>
+	
+	    <!-- Global Fov Section -->
+    <key name="GlobalFovText">整体视角</key>
+    <key name="FOVText">视角</key>
+	
+	
+		<!-- Weapon Aim Section -->
+	<key name="GlobalAimText">整体瞄准开关</key>
+	<key name="FOVText">瞄准视角</key>
+	<key name="PlayersText">玩家</key>
+	<key name="AimAtTeammatesText">可瞄准队友</key>
+	<key name="VisibleOnlyText">只瞄准可见的人</key>
+	<key name="SilentAimText">静默自瞄</key>
+	<key name="WallbangText">穿墙自瞄</key>
+	<key name="FovSizeText">瞄准视角大小</key>
+	<key name="YawText">Yaw偏航角</key>
+	<key name="PitchText">Pitch俯仰角</key>
+	<key name="SmoothnessText">平滑度</key>
+	<key name="AimHeightText">瞄准高度</key>
+	<key name="SkeletonsText">骷髅</key>
+	<key name="BulletColorText">子弹颜色</key>
+	
+	
+		<!-- Cannon Aim Section -->
+	<key name="CannonText">大炮</key>
+	<key name="SilentAimText">静默炮锁</key>
+	<key name="ChainShotsText">链弹射击</key>
+	<key name="PlayerAimbotText">锁玩家</key>
+	<key name="SkeletonAimbotText">锁骷髅</key>
+	<key name="SkeletonShipAimbotText">锁骷髅船</key>
+	<key name="GhostShipsText">锁幽灵船</key>
+	<key name="RandomShotsText">船体随机锁</key>
+	<key name="LowerDeckText">锁底仓</key>
+	<key name="DeckshotText">锁甲板</key>
+	<key name="KegsText">锁炸药桶</key>
+	<key name="VisibleOnlyText">只锁视野内可见</key>
+	<key name="HarpoonText">鱼叉自瞄</key>
+	
+		<!-- Misc Section -->
+	<key name="GlobalMiscText">整体杂项</key>
+    <key name="ClientText">客户端</key>
+    <key name="ShipInfoText">船舶信息</key>
+    <key name="MapPinsText">地图标点</key>
+    <key name="FreeCamText">自由镜头</key>
+    <key name="FreeCamTooltip">F12 激活自由镜头，F10 开启灵魂飞行，F11 返回原来的身体</key>
+    <key name="MacrosText">宏设置</key>
+    <key name="BunnyHopText">兔子跳</key>
+    <key name="DisableIdleKickText">阻止挂机踢</key>
+    <key name="GameText">游戏</key>
+    <key name="ShowPlayersListText">显示玩家列表</key>
+    <key name="CookingStateText">显示烹饪进度</key>
+    <key name="SwordText">弯刀选项</key>
+    <key name="HeavyNoCameraClampText">蓄力重击镜头不卡顿</key>
+    <key name="BlockingNoSlownessText">取消格挡前摇</key>
+    <key name="FasterSwordText">快速挥砍</key>
+    <key name="AllWeaponsText">全部武器</key>
+    <key name="FasterReloadingText">更快的填装弹药</key>
+    <key name="ADSSwitchNoSlownessText">ADS开关无延迟</key>
+    <key name="WeaponWireframesText">武器线框化</key>
+    <key name="BulletColorText">子弹颜色</key>
+    <key name="ModsText">模组选项</key>
+    <key name="DisableSkyAndFogText">屏蔽天空&迷雾</key>
+    <key name="WaterWireFramesText">线框化水</key>
+    <key name="NoDrunkennessText">免疫醉酒</key>
+    <key name="InstantLoadText">即时加载</key>
+    <key name="AutoAmmoReloadText">自动装填弹药</key>
+    <key name="LadderMagnetText">自动吸附梯子</key>
+    <key name="TimeChangerText">游戏时间更改</key>
+    <key name="ItemGrabberText">自动拾取物品</key>
+    <key name="AnchorDropperText">自动抛锚</key>
+    <key name="SetTimeText">设置时间</key>
+    <key name="RiskyText">高风险项</key>
+    <key name="TeleportText">乘浪而行</key>
+    <key name="WalkUnderwaterText">水下行走</key>
+    <key name="MagicTridentText">魔法三叉戟</key>
+    <key name="WalkWhileDeadText">表情移动</key>
+    <key name="InstantLadderText">瞬间爬梯</key>
+	
+		<!-- Exploits -->
+	<key name="Other">其他选项</key>
+	<key name="ReAnimateButton">刷新动画</key>
+	<key name="ReAnimateCheckbox">刷新动画</key>
+	<key name="Exploits">漏洞功能</key>
+	<key name="FreezeCheckbox">冻结</key>
+	<key name="UnderwaterSpeedCheckbox">海底加速</key>
+	<key name="UnderwaterSpeedTooltip">只有从大炮将自己发射时才有效</key>
+	<key name="FallDamageCheckbox">减少跌落伤害</key>
+	<key name="InstantRepairCheckbox">一键修船</key>
+	<key name="InstantBlackScreenCheckbox">一键回船</key>
+	<key name="SuicideCheckbox">自杀</key>
+	<key name="GodmodeCheckbox">无敌 不可用</key>
+	<key name="SuppliesCheckbox">无限购买供应品</key>
+	<key name="MegaLaunchCheckbox">发射自己</key>
+	<key name="MegaLaunchSpeedSlider">速度</key>
+	<key name="TeleportCheckbox">传送!</key>
+	<key name="LadderTPToggleTooltip">按下F1传送</key>
+	<key name="LadderTPCheckbox">梯子传送</key>
+	<key name="CannonTPCheckbox">大炮传送</key>
+	<key name="WheelTPCheckbox">船舵传送</key>
+	<key name="AirJumpCheckbox">空中跳跃</key>
+	<key name="AirJumpManualCheckbox">手动空中跳跃</key>
+	<key name="AirJumpManualTooltip">启用并按下空中跳跃键!</key>
+	<key name="Keybinds">快捷键绑定</key>
+	<key name="FreezeKeyText">冻结</key>
+	<key name="AirJumpKeyText">空中跳跃</key>
+	<key name="MegaLaunchKeyText">发射自己</key>
+	<key name="ReAnimateKeyText">重载动画</key>
+	<key name="AirJumpManualKeyText">手动空中跳跃</key>
+	<key name="InstantRepairKeyText">一键修船</key>
+	<key name="UnderwaterSpeedKeyText">海底加速</key>
+	<key name="NoFallDamageKeyText">减少坠落伤害</key>
+	<key name="SuicideKeyText">自杀</key>
+	<key name="BlackscreenKeyText">一键回船</key>
+	<key name="GodModeKeyText">无敌 不可用</key>
+		<!-- Skins -->
+	<key name="FlintlockText">燧发手枪</key>
+	<key name="BlunderbussText">火铳喷子</key>
+	<key name="EyeOfReachText">鹰眼狙击枪</key>
+	<key name="ChooseSkinToolTip">请选择皮肤，然后勾选该选项</key>
+	
+	
+		<!-- Network Settings -->
+	<key name="NetworkSettings">网络选项</key>
+	<key name="ServerCrasherCheckbox">崩溃服务器</key>
+	<key name="ServerHopCheckbox">跳转服务器</key>
+	
+		<!-- Config Section -->
+	<key name="Config">配置文件</key>
+	<key name="FileName">文件名称</key>
+	<key name="SaveSettingsButton">保存配置设置</key>
+	<key name="FileCombo">文件</key>
+	<key name="NoSettingsFiles">未找到已保存的配置文件.</key>
+	<key name="LoadSettingsButton">加载配置文件</key>
+	<key name="SettingsSavedPopup">保存配置文件</key>
+	<key name="SettingsSavedText">配置文件已保存!</key>
+	<key name="OKButton">OK</key>
+	<key name="SettingsLoadedPopup">已加载配置文件</key>
+	<key name="SettingsLoadedText">已加载配置文件!</key>
+	
+</language>
