@@ -247,6 +247,7 @@
 	<key name="LadderTPToggleTooltip">F1 To Teleport</key>
 	<key name="LadderTPCheckbox">Ladder TP</key>
 	<key name="CannonTPCheckbox">Cannon TP</key>
+	<key name="WaterBarrelTPCheckbox">WaterBarrel TP</key>
 	<key name="WheelTPCheckbox">Wheel TP</key>
 	<key name="AirJumpCheckbox">Air Jump</key>
 	<key name="AirJumpManualCheckbox">Air Jump Manual</key>
