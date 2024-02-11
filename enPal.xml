@@ -1,0 +1,110 @@
+<language>
+    <key name="PlayerBoxESP">Player Box ESP</key>
+    <key name="NPCBoxESP">NPC Box ESP</key>
+    <key name="NPCNameESP">NPC Name ESP</key>
+    <key name="MonsterNameESP">Monster Name ESP</key>
+    <key name="MonsterBoxESP">Monster Box ESP</key>
+    <key name="TreasureESP">Treasure ESP</key>
+    <key name="TreasureBoxESP">Treasure Box ESP</key>
+    <key name="TreasureMinningESP">Minning ESP</key>
+    <key name="PickupESP">PickupESP</key>
+    <key name="MonsterVisibleColor">Monster Visible Color</key>
+    <key name="MonsterInvisibleColor">Monster Invisible Color</key>
+
+
+
+
+    <key name="SpeedHackText">SpeedHack</key>
+    <key name="AttackHackText">AttackHack</key>
+    <key name="DefenseHackText">DefenseHack</key>
+    <key name="InfStaminaText">InfStamina</key>
+    <key name="SpeedModifiersText">SpeedModifilers</key>
+    <key name="AttackModifiersText">AttackModifiers</key>
+    <key name="DefenseModifiersText">defenseModifiers</key>
+    <key name="InfAmmoText">InfAmmo</key>
+    <key name="IsQuickText">IsQuick</key>
+    <key name="SafeTeleportText">SafeTeleport</key>
+    <key name="TeleportMonstersText">TeleportMonsters</key>
+    <key name="PosText">Pos:</key>
+    <key name="ItemNameText">Item Name</key>
+    <key name="ItemNumText">Item Num</key>
+    <key name="GiveItemText">Give item</key>
+    <key name="HomeTP">Home Teleport</key>
+    <key name="MaxWeight">Max Weight</key>
+    <key name="DeleteSelf">Delete Self</key>
+    <key name="AnywhereTP">AnywhereTP</key>
+    <key name="ToggleFly">Toggle Fly</key>
+    <key name="GodHealth">GodMode</key>
+    <key name="EXP:">EXP:</key>
+    <key name="Giveexp">Give exp</key>
+    <key name="GivePartyXP">GivePartyXP</key>
+    <key name="FastCraft">Fast Craft</key>
+    <key name="AllEffigies">All Effigies</key>
+    <key name="Equivalent">Equivalent</key>
+    <key name="EquiModifiler">EquiModifiler</key>
+    <key name="AllEffigies">All Effigies</key>
+    <key name="Filter">Filter</key>
+    <key name="BasicItemsstack">Basic Items stack</key>
+    <key name="BasicItemssingle">Basic Items single</key>
+    <key name="UnlockPalskills">Unlock Pal skills</key>
+    <key name="Spheres">Spheres</key>
+    <key name="Tools">Tools</key>
+
+    <key name="VisualsButton">Visuals</key>
+    <key name="PlayersButton">Players</key>
+    <key name="ExploitsButton">Exploits</key>
+    <key name="DatabaseButton">Database</key>
+    <key name="ConfigButton">Config</key>
+    <key name="QuickButton">Quick</key>
+    <key name="TeleportButton">Teleport</key>
+	<key name="NewName">New Name</key>
+	<key name="ChangeName">ChangeName</key>
+	<key name="SelectPlayer">Select Player</key>
+	<key name="JoinGuild">Join Guild</key>
+	<key name="ForceBecomeOwner">Force Become Owner</key>
+	<key name="ForceRemoveBase">Force Remove Base</key>
+	<key name="ForceKickFromGuild">Force Kick From Guild</key>
+	<key name="KillAura">Kill Aura</key>
+	<key name="TeleportToBossroom">Teleport To Bossroom</key>
+	<key name="FullBright">Full Bright</key>
+	<key name="OpenEntityList">Open Entity List</key>
+	<key name="EasyPalCondensation">Easy Pal Condensation</key>
+	<key name="CrashServer">Crash Server</key>
+	<key name="GoToUnlockedFastTravel">Go To Unlocked Fast Travel</key>
+	<key name="NumToAdd">Num To Add</key>
+	<key name="ItemCategory">Item Category</key>
+	<key name="Search">Search</key>
+	<key name="ScrollingRegion">Scrolling Region</key>
+	<key name="PlayerENT">Player</key>
+	<key name="PalENT">Pal</key>
+	<key name="KillENT">Kill</key>
+	<key name="Set1HP">Set 1 HP</key>
+	<key name="TPENT">TP</key>
+	<key name="MaskIt">MaskIt</key>
+	<key name="CategoryStuffAcc">Accessories\0Ammo\0Armor\0Crafting Materials\0Eggs\0Food\0Hats\0\Medicine\0Money\0Other\0Pal Spheres\0Seeds\0Tools\0Weapons\0</key>
+	<key name="MiscButton">Misc</key>
+	<key name="BindsButton">Binds</key>
+	<key name="WorldButton">World</key>
+	<key name="KillSelf">Kill Self</key>
+	<key name="KillRange">Kill Range</key>
+	<key name="GiveMaxTechnologyPoints">Give Max Technology Points</key>
+	<key name="AddSuperBuff">Add Super Buff</key>
+	<key name="RemoveSuperBuff">Remove Super Buff</key>
+	<key name="UnlockAllPasswords">Unlock All Passwords</key>
+	<key name="Unlockfasttravel">Unlock fast travel</key>
+	<key name="RevealMap">Reveal Map</key>
+	<key name="ForceKickFromGuild">Force Kick From Guild</key>
+	<key name="LastWaypointTP">LastWaypointTP</key>
+	<key name="PalSpawnerTxt">Pal Spawner</key>
+	<key name="PalSpawnerSettings">Pal Spawner Settings</key>
+	<key name="SpawnPal">Spawn Pal</key>
+	<key name="PalMisc">Pal Misc</key>
+	<key name="SelectPal">Select Pal</key>
+	<key name="SelectSkill">Select Skill</key>
+	<key name="AddSkill">Add Skill</key>
+	<key name="KillAllPlayers">KillAllPlayers</key>
+
+
+
+
+</language>

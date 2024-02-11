@@ -1,0 +1,112 @@
+<language>
+    <key name="PlayerBoxESP">玩家方框透视</key>
+    <key name="NPCBoxESP">NPC方框透视</key>
+    <key name="NPCNameESP">NPC名称透视</key>
+    <key name="MonsterNameESP">怪物名称透视</key>
+    <key name="MonsterBoxESP">怪物方框透视</key>
+    <key name="TreasureESP">宝藏透视</key>
+    <key name="TreasureBoxESP">宝藏方框透视</key>
+    <key name="TreasureMinningESP">挖矿透视</key>
+    <key name="PickupESP">掉落物透视</key>
+    <key name="MonsterVisibleColor">怪物可见颜色</key>
+    <key name="MonsterInvisibleColor">怪物不可见颜色</key>
+
+
+
+    <key name="SpeedHackText">速度加速</key>
+    <key name="AttackHackText">攻击加速</key>
+    <key name="DefenseHackText">防御加速</key>
+    <key name="InfStaminaText">无限耐力</key>
+    <key name="SpeedModifiersText">速度修改</key>
+    <key name="AttackModifiersText">攻击修改</key>
+    <key name="DefenseModifiersText">防御修改</key>
+    <key name="InfAmmoText">无限弹药</key>
+    <key name="IsQuickText">快速模式</key>
+    <key name="SafeTeleportText">安全传送</key>
+    <key name="TeleportMonstersText">传送怪物</key>
+    <key name="PosText">位置：</key>
+    <key name="ItemNameText">物品名称</key>
+    <key name="ItemNumText">物品数量</key>
+    <key name="GiveItemText">给予物品</key>
+    <key name="HomeTP">家中传送</key>
+    <key name="MaxWeight">最大负重</key>
+    <key name="DeleteSelf">删除角色</key>
+    <key name="AnywhereTP">任意地点传送</key>
+    <key name="ToggleFly">切换飞行</key>
+    <key name="GodHealth">上帝模式</key>
+    <key name="EXP:">经验：</key>
+    <key name="Giveexp">给予经验</key>
+    <key name="GivePartyXP">给予团队经验</key>
+    <key name="FastCraft">快速制作</key>
+    <key name="AllEffigies">所有雕像</key>
+    <key name="Equivalent">等效</key>
+    <key name="EquiModifiler">装备修改</key>
+    <key name="AllEffigies">所有雕像</key>
+    <key name="Filter">分类</key>
+    <key name="BasicItemsstack">基础物品堆叠</key>
+    <key name="BasicItemssingle">基础物品单独</key>
+    <key name="UnlockPalskills">解锁伙伴技能</key>
+    <key name="Spheres">灵珠</key>
+    <key name="Tools">工具</key>
+
+    <key name="VisualsButton">视觉功能</key>
+    <key name="PlayersButton">玩家功能</key>
+    <key name="ExploitsButton">特殊功能</key>
+    <key name="DatabaseButton">数据功能</key>
+    <key name="ConfigButton">配置功能</key>
+    <key name="QuickButton">快捷功能</key>
+    <key name="TeleportButton">传送功能</key>
+    <key name="NewName">新名称</key>
+    <key name="ChangeName">改变名称</key>
+    <key name="SelectPlayer">选择玩家</key>
+    <key name="JoinGuild">加入公会</key>
+    <key name="ForceBecomeOwner">强制成为所有者</key>
+    <key name="ForceRemoveBase">强制移除基地</key>
+    <key name="KillAura">杀戮光环</key>
+    <key name="TeleportToBossroom">传送至BOSS房间</key>
+    <key name="FullBright">全亮度</key>
+    <key name="OpenEntityList">打开实体列表</key>
+    <key name="EasyPalCondensation">简易帕鲁凝结</key>
+    <key name="CrashServer">崩溃服务器</key>
+    <key name="GoToUnlockedFastTravel">前往解锁的快速旅行点</key>
+    <key name="NumToAdd">要添加的数量</key>
+    <key name="ItemCategory">物品类别</key>
+    <key name="Search">搜索</key>
+    <key name="ScrollingRegion">滚动区域</key>
+    <key name="PlayerENT">玩家</key>
+    <key name="PalENT">帕鲁</key>
+    <key name="KillENT">击杀</key>
+    <key name="Set1HP">设置1 HP</key>
+    <key name="TPENT">传送</key>
+    <key name="MaskIt">遮掩</key>
+	<key name="CategoryStuffAcc">配件\0弹药\0护甲\0工艺材料\0蛋蛋\0食物\0帽子\0药物\0金钱\0其它\0帕鲁蛋\0种子\0工具\0武器\0 </key>
+	<key name="MiscButton">其它</key>
+	<key name="BindsButton">绑定</key>
+	<key name="WorldButton">世界</key>
+	<key name="KillSelf">自杀</key>
+	<key name="KillRange">杀戮光环</key>
+	<key name="GiveMaxTechnologyPoints">给予最大科技点数</key>
+	<key name="AddSuperBuff">添加超级效果</key>
+	<key name="RemoveSuperBuff">移除超级效果</key>
+	<key name="UnlockAllPasswords">解锁密码</key>
+	<key name="Unlockfasttravel">解锁快速旅行</key>
+	<key name="RevealMap">显示地图</key>
+	<key name="ForceKickFromGuild">服务器强制踢出</key>
+	<key name="LastWaypointTP">地图选点传送</key>
+	<key name="PalSpawnerTxt">帕鲁生成</key>
+	<key name="PalSpawnerSettings">帕鲁生成设定</key>
+	<key name="SpawnPal">生成帕鲁</key>
+	<key name="PalMisc">帕鲁杂项</key> 
+	<key name="SelectPal">选择帕鲁</key>
+	<key name="SelectSkill">选择技能</key>
+	<key name="AddSkill">添加技能</key>
+	<key name="KillAllPlayers">杀死所有玩家</key>
+	
+	
+
+
+
+
+
+
+</language>
